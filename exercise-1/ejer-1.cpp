@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main(){
@@ -9,25 +8,24 @@ int sum =0;
 float producto =1;
 
 for (int i=0; i<3; i++){
-
-cout<<"Ingrese el numero" <<i+1<< ":";
-cin >>nums[i];
-sum = sum+nums[i];
-producto = producto*nums[i];
+  cout<<"Ingrese el numero  " << i+1<< ": ";
+  cin >>nums[i];
+  sum = sum+nums[i];
+  producto = producto*nums[i];
 
 }
 
-int min =nums[0];
-int max =nums[0];
+  int min =nums[0];
+  int max =nums[0];
 
 for (int i=0; i<3; i++){
 
-if(nums[i]<min){
+ if(nums[i]<min){
     min = nums[i];
 
 }
-if(nums[i]>max){
- max = nums[i];
+ if(nums[i]>max){
+    max = nums[i];
 
 }
 

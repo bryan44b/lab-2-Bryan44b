@@ -33,4 +33,4 @@ Ingrese dos enteros: 22 8
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+![Texto alternativo](./ejecucion2.png)

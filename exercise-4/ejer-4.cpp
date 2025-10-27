@@ -25,7 +25,4 @@ int main(){
 cout << "El numero de en medio es: "<< nums[1];
 
 
-
-
-    
 }

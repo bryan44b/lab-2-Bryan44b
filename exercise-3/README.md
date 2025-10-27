@@ -27,4 +27,4 @@ R: 1   7   6   3
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+![Texto alternativo](./ejecucion3.png)

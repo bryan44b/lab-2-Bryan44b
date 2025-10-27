@@ -13,7 +13,8 @@ int main(){
 
 
   for (int i = 0; i < 6; i++){
-     cout << variable_x[i] << "  " << (variable_x[i]*variable_x[i]*variable_x[i])-(variable_x[i]*variable_x[i])+5; cout << endl;
+     cout << variable_x[i] << "  " << (variable_x[i]*variable_x[i]*variable_x[i])-
+     (variable_x[i]*variable_x[i])+5; cout << endl;
 
   }
 

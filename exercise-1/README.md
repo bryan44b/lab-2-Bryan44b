@@ -23,4 +23,4 @@ El más grande es 27
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+![Texto alternativo](./ejecucion1.png)

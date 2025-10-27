@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Bryan de Jesus Cobaxin Miss
+- Matrícula: S25018143
+- Fecha: 25/10/2025
 
 ## 🎯 Objetivos
 

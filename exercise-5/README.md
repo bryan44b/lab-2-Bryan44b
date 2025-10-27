@@ -16,3 +16,4 @@ x  f(x)
 5  105
 ***********
 ```
+![Texto alternativo](./ejecucion5.png)
